@@ -17,3 +17,16 @@ se debe incuir en todos los archivos de git
 
 ## ¿Cómo configuraría un archivo .gitignore?
 se crea un documento de extencion .gitignore  y cada linea que tenga el documento, sea una extencion o documento concreto, sera ignorado por git a la hora de hacer un git status
++ 
++ 
++ 
+## ¿a que se debe que el punto e_2 y e_3 sean iguales?
+ los punteros guardan la direccion de memoria de una variable.
++ 
+ ## ¿Que optiene en el punto e_4?
+  La direccion de memoria del puntero 
++ 
+ ## ¿Es igual a las anteriosres?¿Por qué?
+   No es igual a las anteriores, los punteros son variables especiales,aun asi tiene su porpia direccion de memoria.
+   
+
